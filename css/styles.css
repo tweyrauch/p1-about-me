@@ -3,16 +3,29 @@ background: orange;
 font-family: arial;
 }
 
+/* Navigation */
+a {
+	font-size: 24px;
+	color: white;
+	text-decoration: none;
+}
+
+
 img {
 	width: 300px;
 }
 
+/* Containers */
 #leftcol{
 	background: red;
+	width: 400px;
+	float: left;
 }
 
 #rightcol{
 	background: blue;
+	width: 400px;
+	float: left;
 }
 
 .round{
