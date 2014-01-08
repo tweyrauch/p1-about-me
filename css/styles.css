@@ -6,3 +6,19 @@ font-family: arial;
 img {
 	width: 300px;
 }
+
+#leftcol{
+	background: red;
+}
+
+#rightcol{
+	background: blue;
+}
+
+.round{
+	border-radius: 20px;
+}
+
+.shadow{
+	box-shadow: 10px 10px 10px black;
+}
